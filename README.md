@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dalton, an <a href="https://www.linkedin.com/in/dalton-kistner-718a0b400">IT Professional</a>!</h1>
+<h1>Hello world! I'm Dalton, an <a href="https://www.linkedin.com/in/dalton-kistner-718a0b400">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
