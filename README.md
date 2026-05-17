@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Virtualization</b>
+- <b>Microsoft Hyper-V</b>
   - [Hyper-V Deployment and Virtual Machine Configuration](https://github.com/dkist99/hyper-v-deployment)
 
 <h2>🤳Connect with me:</h2>
